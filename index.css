@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: #3F464D;
+    overflow: hidden;
+}
+
+#root {
+    padding: 1rem;
+    text-align: center
+}
+
+#root h1 {
+    font-family: 'Indie Flower', Consolas, monospace;
+    color: white;
+    font-size: 40px;
+}
+
+#root canvas {
+    display: block;
+    margin: 0 auto;
+}
